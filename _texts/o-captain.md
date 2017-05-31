@@ -53,7 +53,7 @@ source: Poetry Foundation
 	> - That's enough for me, that's enough for me.
 	{:.poetry}
 
-[^fn2]: Added in footnote here. 
+[^fn2]: Added in footnote here and does it work?  
 
 [^fn3]: The bugle is a small trumpet implicated in the military industrial complex.
 
